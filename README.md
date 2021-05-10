@@ -16,9 +16,7 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/><a>
 </p>
 
-<h2> A simple full stack sales application </h2>
-
-<h3> The Dashboard <h3>
+<h2> :fireworks: A simple full stack sales application </h2>
 
 <br>
 
@@ -32,6 +30,8 @@ This respository contains the *backend* and *frontend* of a full stack applicati
 wich consists in a dashboard developed in *React* that shows data from a backend developed with *Spring*.
 
 The charts were made using ApexCharts : https://apexcharts.com/
+
+<h2 style="font-weight:300">🌐 Deploy:</h2>
 
 Frontend deployed at Netlify : https://jorge-sds3-vendas.netlify.app/
 
@@ -48,7 +48,9 @@ Backend is also working on Heroku : https://sds3-jorge.herokuapp.com/
 > - /sales/amount-by-seller
 > - /sales/success-by-seller
 
-<h3> Run backend project </h3>
+<h2 style="font-weight:300">:video_game: Run project </h3>
+
+<h3 > Backend </h3>
 
 - cd into backend folder
 
@@ -56,7 +58,7 @@ Backend is also working on Heroku : https://sds3-jorge.herokuapp.com/
 
 - mvn spring-boot:run
 
-<h3> Run frontend project </h3>
+<h3> Frontend </h3>
 
 - cd into frontend folder
 
