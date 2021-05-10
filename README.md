@@ -40,8 +40,9 @@ Backend is also working on Heroku : https://sds3-jorge.herokuapp.com/
 <br>
 
 > ### Note
-> As a Spring backend project
-> you can make some API calls on these routes : 
+> As a Spring backend project, there are no pages and you will see a fallback page.
+> 
+> You can make some API calls on these routes : 
 > - /sellers
 > - /sales?page=0&size=10&sort=date,desc
 > - /sales/amount-by-seller
